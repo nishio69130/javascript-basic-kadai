@@ -1,0 +1,5 @@
+console.log(45 + 18);
+console.log(45 % 8);
+console.log('45'+'18');
+console.log('今日の天気は'+'晴れ');
+console.log('今日の天気は'+'曇り');
